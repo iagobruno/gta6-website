@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+:root {
+  font-family: "Inter", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: black;
+  background-image: linear-gradient(
+    223.17deg,
+    rgb(28, 24, 41) 0%,
+    rgb(27, 24, 40) 8.61%,
+    rgb(25, 23, 36) 17.21%,
+    rgb(22, 21, 32) 25.82%,
+    rgb(20, 19, 28) 34.42%,
+    rgb(18, 18, 24) 43.03%,
+    rgb(17, 17, 23) 51.63%
+  );
+  background-attachment: fixed;
+  user-select: none;
+}
+
+.hero-mask {
+  mask-image: url(/gta-logo.svg);
+  mask-size: 3709.56%;
+  mask-position: 50% 31.3%;
+  mask-origin: content-box;
+  mask-repeat: no-repeat;
+}
