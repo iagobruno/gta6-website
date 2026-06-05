@@ -1,9 +1,9 @@
-# GTA6 Landing Page
+# GTA Landing Page
 
-Projeto de estudo que replica as animações interativas com scroll do site oficial do **GTA 6**.  
+Projeto de estudo que replica as animações interativas com scroll do site oficial do [**GTA 6**](https://www.rockstargames.com/VI).  
 Desenvolvido como forma de praticar (sem IA) técnicas avançadas de animação web usando o GSAP.
 
-[![Online Demo](https://img.shields.io/badge/Online-Demo-brightgreen.svg)](https://www.rockstargames.com/VI)
+[![Online Demo](https://img.shields.io/badge/Online-Demo-brightgreen.svg)](https://iagobruno.github.io/gta6-website/)
 
 https://github.com/user-attachments/assets/c1027ecc-153b-4f8e-86f8-95885133fdfb
 
