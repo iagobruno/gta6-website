@@ -1,19 +1,11 @@
-# GTA6 Website
+# GTA6 Landing Page
 
-[![Online Demo](https://img.shields.io/badge/Online-Demo-brightgreen.svg)](https://iagobruno.github.io/apple-langing-pages/airpods)
+Projeto de estudo que replica as animações interativas com scroll do site oficial do **GTA 6**.  
+Desenvolvido como forma de praticar (sem IA) técnicas avançadas de animação web usando o GSAP.
 
-Projeto de estudo que busca replicar (manualmente sem IA para praticar) as animações interativas com scroll do site oficial do **Grand Theft Auto VI**.
-Desenvolvido como forma de praticar técnicas avançadas de animação web.
+[![Online Demo](https://img.shields.io/badge/Online-Demo-brightgreen.svg)](https://www.rockstargames.com/VI)
 
-[DEMO]
-
-## Tecnologias Utilizadas
-
-- **TypeScript** - Tipagem estática e melhor experiência de desenvolvimento
-- **Vite** - Build tool moderno e rápido
-- **TailwindCSS** - Framework de CSS utilitário para estilização
-- **GSAP** - Biblioteca poderosa para criar animações avançadas
-- **HTML5** - Estrutura semântica
+https://github.com/user-attachments/assets/c1027ecc-153b-4f8e-86f8-95885133fdfb
 
 ## Como executar localmente
 
