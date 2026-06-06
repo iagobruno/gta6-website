@@ -1,4 +1,4 @@
-# GTA Landing Page
+# GTA6 Website
 
 Projeto de estudo que replica as animações interativas com scroll do site oficial do [**GTA 6**](https://www.rockstargames.com/VI).  
 Desenvolvido como forma de praticar (sem IA) técnicas avançadas de animação web usando o GSAP.
